@@ -1,0 +1,76 @@
+
+body {
+   background-color: black;
+}
+h1 {
+   color: #B275F0;
+   font-family: cursive;
+   font-style: italic;
+   font-size: 300%;
+   text-align: center;
+}
+h2 {
+   color: #117766;
+   font-family: decorative;
+   font-size: 250%;
+   text-align: center;
+}
+h3 {
+   color: #DD93C4;
+   font-family: fantasy;
+   font-size: 200%;
+   text-align: left;
+}
+h4 {
+   color: #FF0088;
+   font-family: fraktur;
+   font-size: 150%;
+}
+h5 {
+   color: #45CD89;
+   font-family: monospace;
+   font-size: 125%;
+}
+h6 {
+   color: #23BB98;
+   font-family: roman;
+   font-style: italic;
+   font-size: 90%;
+   text-align: left;
+}
+
+p {
+   color: #92a824;
+   font-family: sans-serif;
+}
+
+th {
+   color: #9229F0;
+   font-family: serif;
+   font-size: 120%;
+}
+
+td {
+   color: #66F6F9;
+   font-family: serif;
+   font-size: 120%;
+}
+
+li {
+   color: #099067;
+   font-family: arial;
+   font-size: 110%;
+}
+
+dt {
+   color: #2277EE;
+   font-family: arial;
+   font-size: 110%;
+}
+
+dd {
+   color: #EE7711;
+   font-family: arial;
+   font-size: 110%;
+}
+
